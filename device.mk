@@ -1,5 +1,5 @@
 
-LOCAL_PATH := device/sony/pdx203
+LOCAL_PATH := device/sony/pdx206
 
 # Dynamic partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true

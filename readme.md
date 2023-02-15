@@ -1,6 +1,6 @@
-# TWRP/SHRP/Orange Fox Recovery Device Tree For Xperia 1 II (pdx203)
+# TWRP/SHRP/Orange Fox Recovery Device Tree For Xperia 5 II (pdx206)
 
-## Xperia 1 II (Codename pdx203)
+## Xperia 5 II (Codename pdx206)
 
 ### This device tree can only compile Android 10 based Recovery now.
 

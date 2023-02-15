@@ -22,7 +22,7 @@
 # bitrot and build breakages. Building a component unconditionally does
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
-SHRP_DEVICE_CODE := pdx203
+SHRP_DEVICE_CODE := pdx206
 SHRP_PATH := device/sony/$(SHRP_DEVICE_CODE)
 SHRP_MAINTAINER := ShionKagurazaka
 SHRP_REC_TYPE := Treble
@@ -31,8 +31,8 @@ SHRP_EDL_MODE := 0
 SHRP_FLASH := 1
 SHRP_AB := true
 
-# For PDX203
-LOCAL_PATH := device/sony/pdx203
+# For PDX206
+LOCAL_PATH := device/sony/pdx206
 ALLOW_MISSING_DEPENDENCIES = true
 
 # Architecture

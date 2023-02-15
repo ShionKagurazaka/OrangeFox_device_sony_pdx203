@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_pdx203.mk
+    $(LOCAL_DIR)/omni_pdx206.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_pdx203-user \
-    omni_pdx203-userdebug \
-    omni_pdx203-eng
+    omni_pdx206-user \
+    omni_pdx206-userdebug \
+    omni_pdx206-eng
